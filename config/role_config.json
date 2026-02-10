@@ -1,0 +1,19 @@
+{
+    "roles": {
+        "Admin": [
+            "dashboard",
+            "kendaraan",
+            "pengguna",
+            "penggunaan",
+            "maintenance",
+            "inspeksi",
+            "operasional"
+        ],
+        "User": [
+            "dashboard",
+            "inspeksi",
+            "maintenance",
+            "operasional"
+        ]
+    }
+}
